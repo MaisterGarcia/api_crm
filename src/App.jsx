@@ -7,6 +7,7 @@ import Inicio from "./paginas/Inicio";
 import NuevoCliente from "./paginas/NuevoCliente";
 
 function App() {
+  // console.log(import.meta.env);
   return (
     <BrowserRouter>
       <Routes>
