@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jorge - Actualizado",
+      "empresa": "Alitex",
+      "email": "jorge_08emmanuel@hotmail.com",
+      "telefono": "7224450930",
+      "notas": "Invitado",
+      "id": 1
+    },
+    {
+      "nombre": "Lizeth - Actualizada",
+      "empresa": "IQFA",
+      "email": "lizeth@outlook.com",
+      "telefono": "7224450930",
+      "notas": "Prueba del cliente ",
+      "id": 2
+    },
+    {
+      "nombre": "Alejandra Act",
+      "empresa": "Centro metalico",
+      "email": "alita@alita.com",
+      "telefono": "7221432945",
+      "notas": "Nueva Cliente",
+      "id": 4
+    }
+  ]
+}
